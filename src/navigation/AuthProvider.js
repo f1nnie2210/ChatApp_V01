@@ -1,4 +1,5 @@
 import React, { createContext, useState } from 'react';
+import { Alert } from 'react-native';
 
 import { kitty } from '../chatkitty';
 import { firebase } from '../firebase';
